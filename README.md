@@ -64,3 +64,4 @@ Finally, we extract the predicted class label from the response using numpy.argm
 
 ![Model](./Screenshots/model.png)
 
+![Endpoint](./Screenshots/endpoint.png)
