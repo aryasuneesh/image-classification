@@ -64,5 +64,3 @@ Finally, we extract the predicted class label from the response using numpy.argm
 
 ![Model](./Screenshots/model.png)
 
-## Standout Suggestions
-**TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
